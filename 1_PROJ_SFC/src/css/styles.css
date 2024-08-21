@@ -1,0 +1,88 @@
+html {
+    font-family: Helvetica;
+    background-color: #ddd;
+}
+
+.container {
+    background-color: aliceblue;
+    max-width: 1100px;
+    position: relative;
+    margin: 50px auto;
+    padding: 20px 50px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+/* Header */
+.header {
+    text-align: center;
+}
+
+.titulo {
+    font-size: 40px;
+}
+
+.main-paragrafo {
+    font-style: italic;
+    font-size: 20px;
+}
+
+/* Imagem Destaque */
+.img-central {
+    text-align: center;
+}
+
+/* Biografia */
+.biografia-container {
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #ddd;
+    border-bottom: 1px dashed #ddd;
+}
+
+/* Citação */
+.citacao-container {
+    background-color: #b8b8b8;
+    padding: 30px;
+}
+
+.citacao-container blockquote {
+    font-weight: bold;
+    font-size: 30px;
+}
+.citacao-container p {
+    font-style: italic;
+}
+
+/* Curiosidades */
+.curiosidades-container {
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #ddd;
+    border-bottom: 1px dashed #ddd;
+}
+
+/* Segunda Imagem */
+.seg-imagem {
+    text-align: center;
+    border-bottom: 1px dashed #ddd;
+}
+
+/* Momentos marcantes */
+.momentos-container {
+    padding: 25px 0;
+    margin: 25px 0;
+    border-bottom: 1px dashed #ddd;
+}
+
+/* Terceira imagem */
+.ter-imagem {
+    text-align: center;
+    margin: 35px 0;
+}
+
+.ter-imagem figcaption {
+    font-style: italic;
+}
